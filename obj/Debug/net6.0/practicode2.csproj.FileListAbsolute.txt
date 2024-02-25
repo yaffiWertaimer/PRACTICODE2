@@ -1,0 +1,34 @@
+C:\לימודים יפי\practicode2\bin\Debug\net6.0\practicode2.exe
+C:\לימודים יפי\practicode2\bin\Debug\net6.0\practicode2.deps.json
+C:\לימודים יפי\practicode2\bin\Debug\net6.0\practicode2.runtimeconfig.json
+C:\לימודים יפי\practicode2\bin\Debug\net6.0\practicode2.dll
+C:\לימודים יפי\practicode2\bin\Debug\net6.0\practicode2.pdb
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.csproj.AssemblyReference.cache
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.AssemblyInfoInputs.cache
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.AssemblyInfo.cs
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.csproj.CoreCompileInputs.cache
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.dll
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\refint\practicode2.dll
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.pdb
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\practicode2.genruntimeconfig.cache
+C:\לימודים יפי\practicode2\obj\Debug\net6.0\ref\practicode2.dll
+F:\practicode2\obj\Debug\net6.0\practicode2.GeneratedMSBuildEditorConfig.editorconfig
+F:\practicode2\obj\Debug\net6.0\practicode2.AssemblyInfoInputs.cache
+F:\practicode2\obj\Debug\net6.0\practicode2.AssemblyInfo.cs
+F:\practicode2\obj\Debug\net6.0\practicode2.csproj.CoreCompileInputs.cache
+F:\practicode2\obj\Debug\net6.0\practicode2.dll
+F:\practicode2\obj\Debug\net6.0\refint\practicode2.dll
+F:\practicode2\obj\Debug\net6.0\practicode2.pdb
+F:\practicode2\bin\Debug\net6.0\practicode2.exe
+F:\practicode2\bin\Debug\net6.0\practicode2.deps.json
+F:\practicode2\bin\Debug\net6.0\practicode2.runtimeconfig.json
+F:\practicode2\bin\Debug\net6.0\practicode2.dll
+F:\practicode2\bin\Debug\net6.0\practicode2.pdb
+F:\practicode2\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\practicode2\obj\Debug\net6.0\practicode2.csproj.AssemblyReference.cache
+F:\practicode2\obj\Debug\net6.0\practico.3D017F73.Up2Date
+F:\practicode2\obj\Debug\net6.0\practicode2.genruntimeconfig.cache
+F:\practicode2\obj\Debug\net6.0\ref\practicode2.dll
+F:\practicode2\bin\Debug\net6.0\AllTags.json
+F:\practicode2\bin\Debug\net6.0\SelfClosingTags.json

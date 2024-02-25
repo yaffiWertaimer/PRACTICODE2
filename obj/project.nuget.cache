@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jOV6fQq4sP6kXJxrwJeXfwH7Yj7XOOLewG0K2OTSLvtycOfbuHvMlWX4RD6DZiRXwGwaWz31NH0GNMqnn0g2w==",
+  "success": true,
+  "projectFilePath": "F:\\practicode2\\practicode2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
